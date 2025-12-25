@@ -89,3 +89,4 @@
 | [2025-12-25](https://github.com/wefdghdghgxxx/hf-helper/commits/f678b6bcc6ccc1efb0bec921ef0aa39103e227ff/docs/index.html) |  |
 | [2025-12-25](https://github.com/wefdghdghgxxx/hf-helper/commits/a0ef6df49d00c6dde7f48fb39120e2ed3040dc89/docs/index.html) |  |
 | [2025-12-25](https://github.com/wefdghdghgxxx/hf-helper/commits/3f5bf161155efb2866427302e86e528c9944d6fb/docs/index.html) |  |
+| [2025-12-26](https://github.com/wefdghdghgxxx/hf-helper/commits/7fd702d4bd97aecd34001e1d315bbae37e1667f3/docs/index.html) |  |
