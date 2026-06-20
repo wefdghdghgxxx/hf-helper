@@ -1125,3 +1125,4 @@
 | [2026-06-20](https://github.com/wefdghdghgxxx/hf-helper/commits/9ddc34271d21a85c3fbae3221beffe89b526753f/docs/index.html) |  |
 | [2026-06-20](https://github.com/wefdghdghgxxx/hf-helper/commits/bc81a953610563501597b34732ec6da549059703/docs/index.html) |  |
 | [2026-06-21](https://github.com/wefdghdghgxxx/hf-helper/commits/4559ead8ccf75a57a25b46b4a4ca3911de28d5b6/docs/index.html) |  |
+| [2026-06-21](https://github.com/wefdghdghgxxx/hf-helper/commits/9c406c1c40b4f7def177da5da1b1e2eff9fca66d/docs/index.html) |  |
